@@ -1,1 +1,1 @@
-this is a new test document.
+this is a new document.
