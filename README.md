@@ -1,1 +1,1 @@
-this is a new document.
+Delete your empty repositories.
